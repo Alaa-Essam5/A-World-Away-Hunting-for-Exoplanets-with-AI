@@ -73,6 +73,8 @@ This project provides:
 - **Visualization:** Three.js (3D planets, orbits), Charts (future extension)  
 
 ---
+## Here is the vidio of our project 
+https://github.com/user-attachments/assets/db86bf2f-9e20-4cf7-98fa-39c9279513a5
 
 ## 🚀 Getting Started
 
